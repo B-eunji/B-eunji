@@ -2,7 +2,7 @@
 
 **B-eunji/B-eunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<br/>
+
 ### 🔨 Skills
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
 
-<br/>
+
 
 ### 📚 My github history
 
